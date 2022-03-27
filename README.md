@@ -1,6 +1,3 @@
-RAVDESS-MLP
-
-
-استخدمت الأكواد الموجودة في هذا الربط https://github.com/PrudhviGNV/Speech-Emotion-Recognization
-
-وبالنسبة لقاعدة البيانات من هنا https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio
+* سويت إعادة كتابة للكود بحيث يكون استخدامه سهل وما يأخذ وقت لاستخراج النتائج (الكود السابق في كل مره أغير مثلا نسبة التقسيم أو\n  السمات الم
+ملف EYASE
+يحتوي على التجارب باستخدام قاعدة البيانات المصرية
